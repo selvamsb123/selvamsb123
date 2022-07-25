@@ -1,5 +1,4 @@
 This is for conflict testing
-
 conflict 2
 conflict 1
 
