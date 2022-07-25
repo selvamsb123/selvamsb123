@@ -1,1 +1,3 @@
 This is for conflict testing
+
+conflict 2
